@@ -1,0 +1,26 @@
+Added Component: Designator=*(ir2136s)
+Added Pin To Net: NetName=15V Pin=*-1
+Added Pin To Net: NetName=AHIN Pin=*-2
+Added Pin To Net: NetName=BHIN Pin=*-3
+Added Pin To Net: NetName=CHIN Pin=*-4
+Added Pin To Net: NetName=ALIN Pin=*-5
+Added Pin To Net: NetName=BLIN Pin=*-6
+Added Pin To Net: NetName=CLIN Pin=*-7
+Added Pin To Net: NetName=FAULT Pin=*-8
+Added Pin To Net: NetName=ITRIP Pin=*-9
+Added Pin To Net: NetName=EN Pin=*-10
+Added Pin To Net: NetName=Net*_11 Pin=*-11
+Added Pin To Net: NetName=PGND Pin=*-12
+Added Pin To Net: NetName=PGND Pin=*-13
+Added Pin To Net: NetName=CL Pin=*-14
+Added Pin To Net: NetName=BL Pin=*-15
+Added Pin To Net: NetName=AL Pin=*-16
+Added Pin To Net: NetName=BLDCC Pin=*-18
+Added Pin To Net: NetName=CH Pin=*-19
+Added Pin To Net: NetName=Net*_20 Pin=*-20
+Added Pin To Net: NetName=BLDCB Pin=*-22
+Added Pin To Net: NetName=BH Pin=*-23
+Added Pin To Net: NetName=Net*_24 Pin=*-24
+Added Pin To Net: NetName=BLDCA Pin=*-26
+Added Pin To Net: NetName=AH Pin=*-27
+Added Pin To Net: NetName=Net*_28 Pin=*-28

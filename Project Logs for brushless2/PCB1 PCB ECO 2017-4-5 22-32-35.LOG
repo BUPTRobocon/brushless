@@ -1,0 +1,6 @@
+Change Component Designator: OldDesignator=* NewDesignator=ir
+Change Net Name : Old Net Name=Net*_11 New Net Name=NetC15_2
+Change Net Name : Old Net Name=Net*_20 New Net Name=NetC11_2
+Change Net Name : Old Net Name=Net*_24 New Net Name=NetC10_2
+Change Net Name : Old Net Name=Net*_28 New Net Name=NetC6_2
+Added Member To Class: ClassName=Sheet1 Member=Component ir IR2136s

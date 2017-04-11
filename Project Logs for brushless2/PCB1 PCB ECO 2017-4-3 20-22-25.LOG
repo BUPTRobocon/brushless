@@ -1,0 +1,5 @@
+Removed Pin From Net: NetName=5V Pin=C23-1
+Removed Pin From Net: NetName=GND Pin=C23-2
+Change Component Footprint: Designator=C23 Old Footprint=0805C New Footprint=CAP-MLCC-0603
+Added Pin To Net: NetName=GND Pin=C23-1
+Added Pin To Net: NetName=5V Pin=C23-2

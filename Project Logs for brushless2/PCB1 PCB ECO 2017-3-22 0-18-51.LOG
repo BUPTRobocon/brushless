@@ -1,0 +1,80 @@
+Added Component: Designator=C6(CAP-ELE-PIN200/DIA200)
+Added Pin To Net: NetName=36V Pin=C6-1
+Added Pin To Net: NetName=PGND Pin=C6-2
+Added Member To Class: ClassName=Sheet1 Member=Component 2 LM339
+Added Member To Class: ClassName=Sheet1 Member=Component 6 Header 2
+Added Member To Class: ClassName=Sheet1 Member=Component C1 Cap
+Added Member To Class: ClassName=Sheet1 Member=Component C2 Cap Pol1
+Added Member To Class: ClassName=Sheet1 Member=Component C3 Cap
+Added Member To Class: ClassName=Sheet1 Member=Component C4 Cap
+Added Member To Class: ClassName=Sheet1 Member=Component C5 Cap
+Added Member To Class: ClassName=Sheet1 Member=Component C6 *¦ÌF
+Added Member To Class: ClassName=Sheet1 Member=Component C7 Cap
+Added Member To Class: ClassName=Sheet1 Member=Component C8 Cap
+Added Member To Class: ClassName=Sheet1 Member=Component C9 Cap
+Added Member To Class: ClassName=Sheet1 Member=Component C10 Cap
+Added Member To Class: ClassName=Sheet1 Member=Component C11 Cap
+Added Member To Class: ClassName=Sheet1 Member=Component C12 Cap
+Added Member To Class: ClassName=Sheet1 Member=Component C15 Cap
+Added Member To Class: ClassName=Sheet1 Member=Component C16 Cap
+Added Member To Class: ClassName=Sheet1 Member=Component C17 Cap
+Added Member To Class: ClassName=Sheet1 Member=Component CAN1 Header 4
+Added Member To Class: ClassName=Sheet1 Member=Component HALL1 Header 5
+Added Member To Class: ClassName=Sheet1 Member=Component LM1 LM324
+Added Member To Class: ClassName=Sheet1 Member=Component POWER1 Header 5
+Added Member To Class: ClassName=Sheet1 Member=Component Q1 8050
+Added Member To Class: ClassName=Sheet1 Member=Component Q2 8050
+Added Member To Class: ClassName=Sheet1 Member=Component Q3 8050
+Added Member To Class: ClassName=Sheet1 Member=Component Q4 8050
+Added Member To Class: ClassName=Sheet1 Member=Component Q5 8050
+Added Member To Class: ClassName=Sheet1 Member=Component Q6 8050
+Added Member To Class: ClassName=Sheet1 Member=Component R1 Res1
+Added Member To Class: ClassName=Sheet1 Member=Component R2 Res1
+Added Member To Class: ClassName=Sheet1 Member=Component R3 Res1
+Added Member To Class: ClassName=Sheet1 Member=Component R4 Res1
+Added Member To Class: ClassName=Sheet1 Member=Component R5 Res1
+Added Member To Class: ClassName=Sheet1 Member=Component R6 Res1
+Added Member To Class: ClassName=Sheet1 Member=Component R7 Res1
+Added Member To Class: ClassName=Sheet1 Member=Component R8 Res1
+Added Member To Class: ClassName=Sheet1 Member=Component R9 Res1
+Added Member To Class: ClassName=Sheet1 Member=Component R10 Res1
+Added Member To Class: ClassName=Sheet1 Member=Component R11 Res1
+Added Member To Class: ClassName=Sheet1 Member=Component R12 Res1
+Added Member To Class: ClassName=Sheet1 Member=Component R13 Res1
+Added Member To Class: ClassName=Sheet1 Member=Component R14 Res1
+Added Member To Class: ClassName=Sheet1 Member=Component R15 Res1
+Added Member To Class: ClassName=Sheet1 Member=Component R16 Res1
+Added Member To Class: ClassName=Sheet1 Member=Component R17 Res1
+Added Member To Class: ClassName=Sheet1 Member=Component R18 Res1
+Added Member To Class: ClassName=Sheet1 Member=Component R19 Res1
+Added Member To Class: ClassName=Sheet1 Member=Component R20 Res1
+Added Member To Class: ClassName=Sheet1 Member=Component R21 Res1
+Added Member To Class: ClassName=Sheet1 Member=Component R22 Res1
+Added Member To Class: ClassName=Sheet1 Member=Component R23 Res1
+Added Member To Class: ClassName=Sheet1 Member=Component R24 Res1
+Added Member To Class: ClassName=Sheet1 Member=Component R25 Res1
+Added Member To Class: ClassName=Sheet1 Member=Component R26 Res1
+Added Member To Class: ClassName=Sheet1 Member=Component R27 Res1
+Added Member To Class: ClassName=Sheet1 Member=Component R28 Res1
+Added Member To Class: ClassName=Sheet1 Member=Component R29 Res1
+Added Member To Class: ClassName=Sheet1 Member=Component R30 Res1
+Added Member To Class: ClassName=Sheet1 Member=Component R31 Res1
+Added Member To Class: ClassName=Sheet1 Member=Component R32 Res1
+Added Member To Class: ClassName=Sheet1 Member=Component R33 Res1
+Added Member To Class: ClassName=Sheet1 Member=Component R34 Res1
+Added Member To Class: ClassName=Sheet1 Member=Component R35 Res1
+Added Member To Class: ClassName=Sheet1 Member=Component R36 Res1
+Added Member To Class: ClassName=Sheet1 Member=Component R37 Res1
+Added Member To Class: ClassName=Sheet1 Member=Component R38 Res1
+Added Member To Class: ClassName=Sheet1 Member=Component R39 Res1
+Added Member To Class: ClassName=Sheet1 Member=Component R40 Res1
+Added Member To Class: ClassName=Sheet1 Member=Component R41 Res1
+Added Member To Class: ClassName=Sheet1 Member=Component R42 Res1
+Added Member To Class: ClassName=Sheet1 Member=Component RF1 Res1
+Added Member To Class: ClassName=Sheet1 Member=Component RF2 Res1
+Added Member To Class: ClassName=Sheet1 Member=Component RF3 Res1
+Added Member To Class: ClassName=Sheet1 Member=Component RIA1 Res1
+Added Member To Class: ClassName=Sheet1 Member=Component RIA2 Res1
+Added Member To Class: ClassName=Sheet1 Member=Component TJA1 TJA1050
+Added Member To Class: ClassName=Sheet1 Member=Component TLP_HALL1 TLP281-4
+Added Member To Class: ClassName=Sheet1 Member=Component USART1 Header 4
