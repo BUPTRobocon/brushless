@@ -1,9 +1,11 @@
-## 无刷电机驱动
+## BUPT无刷电机驱动器 V1.0
+- 特性：
+	- 使用IR2136全桥驱动芯片
+	- 使用[F103Core](https://github.com/BUPTRobocon/STM32F103)
+	- MOS使用LR7843
 
-控制：Stm32F103
-mos:LR7843
-mos驱动芯片：IR2136s
+- Author 
+	- [Ncerzzk](https://github.com/Ncerzzk)
+	
 
-可用于 有感、无感无刷电机
 
-Version 1.0

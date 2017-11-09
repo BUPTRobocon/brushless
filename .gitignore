@@ -1,7 +1,8 @@
 /*
-!.gitignore
-!brushless2.PrjPcb
-!brushless2.PrjPcbStructure
-!PCB1.PcbDoc
-!Sheet1.SchDoc
-!README.md
+!*.PcbDoc
+!*.PrjPcb
+!*.SchDoc
+!*.md
+!*.gitignore
+!LICENSE*
+!*.jpg

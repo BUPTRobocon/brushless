@@ -1,6 +1,0 @@
-Change Component Designator: OldDesignator=3 NewDesignator=12V
-Change Component Designator: OldDesignator=4 NewDesignator=24V
-Change Component Designator: OldDesignator=5 NewDesignator=5V
-Change Net Name : Old Net Name=Net3_A New Net Name=Net12V_A
-Change Net Name : Old Net Name=Net4_A New Net Name=Net24V_A
-Change Net Name : Old Net Name=Net5_A New Net Name=Net5V_A

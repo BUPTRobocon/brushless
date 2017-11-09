@@ -1,6 +1,0 @@
-Removed Pin From Net: NetName=GND Pin=TJA1-5
-Removed Pin From Net: NetName=CAN_H Pin=TJA1-6
-Removed Pin From Net: NetName=CAN_L Pin=TJA1-7
-Added Pin To Net: NetName=CAN_L Pin=TJA1-6
-Added Pin To Net: NetName=CAN_H Pin=TJA1-7
-Added Pin To Net: NetName=GND Pin=TJA1-8
